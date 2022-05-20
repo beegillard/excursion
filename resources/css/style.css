@@ -4,7 +4,7 @@ body {
     font-family: Verdana;
     text-align: center;
     font-size: 21px;
-    font-weight: normal;
+    font-weight: 300;
 }
 
 h1 {
@@ -21,16 +21,24 @@ a {
 h2 {
     font-size: 42px;
     color: white;
-    font-weight: 300;
 }
 
-image {
+image, video {
     display: block;
     margin: 0 auto;
 }
 
+video {
+    width: 50%
+}
+
+
 #camp {
     width: 90%;
+}
+
+#phone {
+    width: 20%
 }
 
 footer {
