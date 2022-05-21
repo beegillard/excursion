@@ -4,12 +4,12 @@
     font-family: Verdana;
     text-align: center;
     font-size: 1.31em;
-    font-weight: normal;
 }
 
 h1 {
     font-size: 3.125em;
     color: white;
+    font-weight: normal;
 }
 
 a {
@@ -21,20 +21,22 @@ a {
 h2 {
     font-size: 3em;
     color: white;
-}
-
-img, video {
-    display: block;
-    margin: 0 auto;
-    padding-top: 30px;
+    font-weight: normal;
 }
 
 video {
-    width: 33%;
+    display: block;
+    margin: 30px auto;
+    width: 35%
 }
 
 #camp {
     width: 90%;
+    margin-top: 30%;
+}
+
+#phone {
+    margin-top: 30%;
 }
 
 footer {
