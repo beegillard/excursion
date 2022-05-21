@@ -30,15 +30,11 @@ image, video {
 }
 
 video {
-    width: 50%
+    width: 33%;
 }
 
 #camp {
     width: 90%;
-}
-
-#phone {
-    width: 7%
 }
 
 footer {
