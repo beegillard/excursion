@@ -4,6 +4,7 @@ body {
     font-family: Verdana;
     text-align: center;
     font-size: 21px;
+    font-weight: 300;
 }
 
 h1 {
@@ -25,12 +26,12 @@ h2 {
 image, video {
     display: block;
     margin: 0 auto;
+    padding-top: 30px;
 }
 
 video {
     width: 50%
 }
-
 
 #camp {
     width: 90%;
