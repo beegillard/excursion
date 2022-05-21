@@ -1,29 +1,29 @@
-body {
+* {
     background-color: black;
     color: gray;
     font-family: Verdana;
     text-align: center;
-    font-size: 21px;
-    font-weight: 300;
+    font-size: 1.31em;
+    font-weight: normal;
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 3.125em;
     color: white;
 }
 
 a {
     color: aquamarine;
-    font-size: 16px;
+    font-size: 1em;
     padding-top: 30px;
 }
 
 h2 {
-    font-size: 42px;
+    font-size: 3em;
     color: white;
 }
 
-image, video {
+img, video {
     display: block;
     margin: 0 auto;
     padding-top: 30px;
@@ -39,5 +39,5 @@ video {
 
 footer {
     text-align: right;
-    font-size: 16px;
+    font-size: 1em;
 }
